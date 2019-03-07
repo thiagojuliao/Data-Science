@@ -6,8 +6,8 @@
   |::::::: 8  .'.'    8 o  :::::::::|       SEGUNDO É A APLICAÇÃO DIRETA DO MODELO DE HOLT-WINTERS DE SUAVIZAÇÃO EXPONENCIAL
   |::::::: 8  | |     8    :::::::::|       PARA SÉRIES TEMPORAIS. ###
   |::::::: _._| |_,...8    :::::::::|
-  |::::::'~--.   .--. `.   `::::::::|   ### AUTHOR: THIAGO TEIXEIRA JULIÃO
-  |:::::'     =8     ~  \ o ::::::::|   ### DATE: 04/03/2019
+  |::::::'~--.   .--. `.   `::::::::|   ### AUTHOR: THIAGO TEIXEIRA JULIÃO ###
+  |:::::'     =8     ~  \ o ::::::::|   ### DATE: 04/03/2019 ###
   |::::'       8._ 88.   \ o::::::::|
   |:::'   __. ,.ooo~~.    \ o`::::::|
   |:::   . -. 88`78o/:     \  `:::::|
